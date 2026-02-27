@@ -56,7 +56,7 @@ The decision depends heavily on the clients:
 -   They don’t need liquidity
 -   They want longevity insurance
 
-### Lump Sum may be better if:
+### Lump Sum may be better for the client if:
 
 -   They are in poor health
 -   They want estate value
